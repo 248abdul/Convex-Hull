@@ -2,7 +2,7 @@
 
 ## Overview
 
-Full implementations of three major algorithms for finding the [convex hull](https://en.wikipedia.org/wiki/Convex_hull) of a set of points:
+This project consists of full implementations of three major algorithms for finding the [convex hull](https://en.wikipedia.org/wiki/Convex_hull) of a set of points:
 
 - Jarvix March
 - Graham Scan
