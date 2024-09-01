@@ -8,7 +8,7 @@ Full implementations of three major algorithms for finding the [convex hull](htt
 - Graham Scan
 - Chan's Algorithm
 
-Completed as part of a group project alongside three other peers.
+Completed as part of a group project alongside three other peers, achieving a first-class (95%) grade.
 
 The code also includes a simple experimental framework to compare the performance of the three algorithms, along with plenty of sample experiments.
 
